@@ -1,2 +1,2 @@
-# AASMS Unblocker
-This website is for... educational purposes... "Totally"
+# Math Fountain
+This website is for... scientific purposes... "Totally"
